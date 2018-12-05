@@ -1,7 +1,7 @@
 <html>
   <head>
     </head>
-    <body>
+    <body bgcolor="#E6E6FA">
       <h1>
         Hello WorldXD
       </h1>
