@@ -1,5 +1,10 @@
 <html>
   <head>
+      <style>
+    .body{
+    background-color: #557722;
+    }
+  </style>
     </head>
     <body>
       <h1>
@@ -10,9 +15,4 @@
       This is a website lol
     </p>
     </body>
-  <style>
-    .body{
-    background-color: #557722;
-    }
-  </style>
  </html>
