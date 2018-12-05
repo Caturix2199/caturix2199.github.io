@@ -1,7 +1,7 @@
 <html>
   <head>
     </head>
-    <body bgcolor="#E6E6FA">
+    <body>
       <h1>
         Hello WorldXD
       </h1>
@@ -10,4 +10,9 @@
       This is a website lol
     </p>
     </body>
+  <style>
+    .body{
+    background-color: #557722;
+    }
+  </style>
  </html>
