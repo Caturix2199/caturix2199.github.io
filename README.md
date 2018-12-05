@@ -1,10 +1,5 @@
 <html>
   <head>
-      <style>
-    .body{
-    background-color: #557722;
-    }
-  </style>
     </head>
     <body>
       <h1>
