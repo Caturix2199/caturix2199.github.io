@@ -5,7 +5,7 @@
       <h1>
         Hello WorldXD
       </h1>
-      <button type="button">Click Me!</button>
+      <img src="5.jpg">
     <p>
       This is a website
     </p>
